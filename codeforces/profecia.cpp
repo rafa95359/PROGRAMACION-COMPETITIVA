@@ -19,7 +19,7 @@ int main(){
     cin>>profecia;
     para(i,profecia.size()){
         string aux=profecia.substr(i,10);
-        if(valida)
+        
     }
     return 0;
 }
